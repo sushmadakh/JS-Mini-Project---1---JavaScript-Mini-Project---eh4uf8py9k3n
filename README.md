@@ -40,5 +40,5 @@ b. HOW did you make the project (Tech Stack, Database, APIs)
 
 c. WHAT features, technical things you had implemented
 •	Simplicity
-•	Freshness & consistency
+•	utilies the skill in HTML, CSS and JavaScript.
 •	Mobile-friendly design
