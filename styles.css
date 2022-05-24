@@ -14,7 +14,7 @@
 #bluecar{
     height: 100px;
     width: 130px;
-    background-color: black;
+    /*background-color: black;*/
     position: relative;
     top: 0px;
     left: 0px;
@@ -36,7 +36,7 @@
 #racecar{
     height: 100px;
     width: 130px;
-    background-color: red;
+   /* background-color: red; */
     position: relative;
     top: 250px;
     left: 130px;
