@@ -1,20 +1,23 @@
 # html-css-js-project-boilerplate
 # Racing Car Game
 
-This game is made with only HTML, CSS and javascript.
+This game is made with only HTML, CSS and javascript. This Project is quite simple at the same time utilies the skill in HTML, CSS and JavaScript. 
 
 # System Requirements
 This website requires a computer with Internet Access and a browser. Supported browsers include Firefox, Chrome, Safari, Opera.
 
 # Technologies Used
+
 HTML5, CSS3, JavaScript
 
 # Description
 
 a. WHY this project was chosen (what use case does it solve)
+
 •	This Project is quite simple at the same time utilies the skill in HTML, CSS and JavaScript. 
 
 b. HOW did you make the project (Tech Stack, Database, APIs)
+
 •	Use the HTML element to define an image
 •	Use the HTML src attribute to define the URL of the image
 •	Use the HTML alt attribute to define an alternate text for an image, if it cannot be displayed
